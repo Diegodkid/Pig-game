@@ -41,6 +41,6 @@ manter os pontos e passar a vez afim de não perderem muitos pontos 💰
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-* **Link para o projeto** - [Pig-game](pigs-g.netlify.app](https://pigs-g.netlify.app/)
+* **Link para o projeto** - [Pig-game](https://pigs-g.netlify.app/)
 
 Feito by Diegodkid :wave: 
